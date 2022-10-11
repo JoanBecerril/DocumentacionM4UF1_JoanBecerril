@@ -30,6 +30,15 @@ Para definir un estilo a un texto tenemos todos estos tipos:
 ~~Estilo~~                          Tachar
 ```
 
+### Codigo
+El codigo se expresa con 3 comas y se interpreta asi:
+```
+<html>
+  <div
+  </div>
+</html>
+```
+
 ### Listas
 #### Desordenadas
 ```
@@ -50,10 +59,12 @@ Para definir un estilo a un texto tenemos todos estos tipos:
   2. lista                          Elemento de lista 6 con TAB
 ```
 
+### 
+```
+
+```
+
 # HTML
 
 
 # CSS
-
-
-# Responsive

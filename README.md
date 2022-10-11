@@ -31,7 +31,7 @@ Para definir un estilo a un texto tenemos todos estos tipos:
 ```
 
 ### Listas
-#### Desordenada
+#### Desordenadas
 ```
 - lista                             Elemento de lista
 - lista                             Elemento de lista
@@ -40,12 +40,14 @@ Para definir un estilo a un texto tenemos todos estos tipos:
     - lista                         Elemento de lista con 2 TAB
     - lista                         Elemento de lista con 2 TAB
 ```
-#### Ordenada
+#### Ordenadas
 ```
 1. lista                            Elemento de lista 1
 2. lista                            Elemento de lista 2
 3. lista                            Elemento de lista 3
 4. lista                            Elemento de lista 4
+  1. lista                          Elemento de lista 5 con TAB
+  2. lista                          Elemento de lista 6 con TAB
 ```
 
 # HTML

@@ -2,11 +2,32 @@
 
 # Github
 ### Crear Respositorio
+##### Para crear un repositorio clicamos el siguiente botón:
+![IMG1](img/1.jpg)
+##### Seleccionamos los ajustes como el nombre, el estado, privado o publico, si queremos archivo README y de más. Una vez acabemos creamos el repositorio con el boton verde.
+![IMG1](img/2.jpg)
+##### El repositorio ya estaria listo para usarse.
 
 ### Github Pages
-### Clonar Repositorio en VisualStudio
-### Subir Cambios a Github
+##### Para conseguir el link de nuestra pagina web debemos ir a ajustes, en el apartado de 'Pages' veremos un seleccionador con 'None', ahí debemos cambiarlo por 'main'.
+![IMG1](img/6.jpg)
+##### Una vez cambiado por 'main' guardaremos los cambios y nos aparecerá un link arriba. Este es el link de nuestra web de github.
+![IMG1](img/7.jpg)
+##### Para acabar vamos al principio de la pagina en github y vamos a este botón.
+![IMG1](img/8.jpg)
+##### Con el link copiado lo pegamos en ese recuadro y guardamos. Esto es para que el link aparezca en la pagina principal y sea mas intuitivo.
+![IMG1](img/9.jpg)
 
+### Clonar Repositorio en VisualStudio
+##### Para clonar el repositorio debemos copiar el codigo HTTPS como se muetra en la imagen.
+![IMG1](img/3.jpg)
+##### Abrimos VisualStudioCode y clicamos el boton de 'Clonar el repositorio Git' despues pegamos lo copiado anteriormente.
+![IMG1](img/4.jpg)
+##### Como vemos ya estaria clonado en local y podriamos trabajar comodamente.
+![IMG1](img/5.jpg)
+
+### Subir Cambios a Github
+#####
 
 # Markdown
 ### Encabezados
@@ -93,6 +114,12 @@ El codigo se expresa con 3 comas y se interpreta asi:
 <https://drive.google.com/>
 ```
 <https://drive.google.com/>
+
+## IMAGENES
+```
+![IMAGEN](img/Screenshot_2.png)
+```
+![IMAGEN](img/Screenshot_2.png)
 
 
 # HTML

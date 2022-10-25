@@ -27,7 +27,13 @@
 ![IMG1](img/5.jpg)
 
 ### Subir Cambios a Github
-##### 
+##### Para esto solamente necesitamos abrir una terminal en VisualStudioCode tal que asi:
+![IMG1](img/10.jpg)
+##### Y cuando se abra escribir estos 3 comandos:
+###### git add .
+###### git commit -m "subida"
+###### git push
+![IMG1](img/11.jpg)
 
 # Markdown
 ### Encabezados

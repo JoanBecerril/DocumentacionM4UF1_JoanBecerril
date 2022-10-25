@@ -130,4 +130,38 @@ El codigo se expresa con 3 comas y se interpreta asi:
 
 # HTML
 
-###
+### ANATOMIA HTML
+```
+<!DOCTYPE html>					Tipo de documento (html)
+<html>						Código html (necesario)
+<body>						Cuerpo
+<head>						Estructura html
+<title>						Titulo (Titulo pestaña Google)
+<h1> <h2> <h3> <h4> <h5> <h6>		Encabezado
+<div>							División
+<p>							Espacio en blanco
+<a>							Hipervínculo (href=” “)
+<br>							Espacio en blanco (enter)
+<ul>							Comienzo de lista (•)
+	<li>						Elemento de lista (•)
+<ol>							Comienzo de lista (numerada)
+	<li>						Elemento de lista (numerada)
+<link>						Insertar link 
+<img>							Insertar una foto
+<video>						Insertar un video
+<tbody>						Cuerpo de tabla
+<thead>						Cabeza de tabla
+<table>						Crear tabla
+	<thread>					Agrupar contenido en tabla
+		<tr>					Fila de la tabla
+			<th>				Texto en fila
+<tfoot>						Pie de tabla
+<form>						Recopilar información
+<input>						Entrada de texto
+<label>						Muestra texto escrito
+<article>						Contiene artículos, blogs…
+<section>						Define elementos en un doc
+<aside>						Contiene info principal
+<figure>						Encapsular un medio
+<audio>						Insertar audio
+```

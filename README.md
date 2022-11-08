@@ -165,3 +165,66 @@ El codigo se expresa con 3 comas y se interpreta asi:
 <figure>						Encapsular un medio
 <audio>						Insertar audio
 ```
+
+# CSS
+
+### SELECTOR  {  }
+```
+. {
+body {							Cuerpo
+h1 h2 h3 h4 h5 h6 {					
+p {							Selector
+```
+
+### PROPIEDADES   :  ;
+```
+font-family:						Tipo de fuente
+font-size:						Tamaño de fuente
+font-weight:						Grosor de fuente
+text-align:						Alinear texto
+color: 							Color de fuente
+opacity:						Opacidad
+background:						Fondo
+background-color:					Color de fondo
+background-image:					Imagen de fondo
+heading-background					
+border: -radius:					Borde
+position:						Posición
+width:							Ancho
+height:							Alto
+padding: -top, -right, -bottom, -left:			Relleno
+margin: -top, -right, -bottom, -left:			Margen
+text: -decoration					Texto
+min:							Mínimo
+max:							Máximo
+overflow:							
+hidden:							
+visible:							
+collapse:							
+box: -sizing:						
+display:							
+float:							
+right:							Derecha
+left:							Izquierda
+center:							Centro
+justify:						Justificado
+```
+
+VALORES ;
+```
+url							URL
+0px							Pixeles
+auto							Automático
+center							Centro
+scroll							
+hidden							
+border-box							
+static							
+relative							
+absolute							
+fixed								
+sticky							
+block								
+inline-block						
+blue (colores en general)				Colores
+```

@@ -155,7 +155,7 @@ El codigo se expresa con 3 comas y se interpreta asi:
 	<thread>					Agrupar contenido en tabla
 		<tr>					Fila de la tabla
 			<th>				Texto en fila
-<tfoot>						Pie de tabla
+<foot>						Pie de tabla
 <form>						Recopilar información
 <input>						Entrada de texto
 <label>						Muestra texto escrito
